@@ -6,6 +6,7 @@ module com.example.td1jfx {
     opens com.example.td1jfx to javafx.fxml;
     exports com.example.td1jfx;
     exports com.example.partie1;
+    exports com.example.partie2;
     exports exercice1;
 
 
