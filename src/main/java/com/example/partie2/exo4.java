@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 
 
 public class exo4 extends Application {
-    private String chooseColor = "Aucune couleur selectioné";
+    private String chooseColor;
     @Override
     public void start(Stage primaryStage) throws Exception {
         BorderPane border4 = new BorderPane();
